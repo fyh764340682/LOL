@@ -1,0 +1,498 @@
+{
+  "0": [
+      {
+          "status": "未开始",
+          "date": "10-8",
+          "time": "5:00",
+          "teama": "C9",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-8",
+          "time": "6:00",
+          "teama": "G2",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "DK",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-8",
+          "time": "7:00",
+          "teama": "CFO",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "100",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-8",
+          "time": "8:00",
+          "teama": "JDG",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-8",
+          "time": "9:00",
+          "teama": "T1",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "EDG",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-8",
+          "time": "10:00",
+          "teama": "GEN",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      }
+  ],
+  "1": [
+      {
+          "status": "未开始",
+          "date": "10-9",
+          "time": "5:00",
+          "teama": "RGE",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-9",
+          "time": "6:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "G2",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-9",
+          "time": "7:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "T1",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-9",
+          "time": "8:00",
+          "teama": "EDG",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "C9",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-9",
+          "time": "9:00",
+          "teama": "TES",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "GAM",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-9",
+          "time": "10:00",
+          "teama": "DK",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "JDG",
+          "wait": "敬请期待"
+      }
+  ],
+  "2": [
+      {
+          "status": "未开始",
+          "date": "10-10",
+          "time": "5:00",
+          "teama": "GAM",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "RGE",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-10",
+          "time": "6:00",
+          "teama": "100",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "GEN",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-10",
+          "time": "7:00",
+          "teama": "EDG",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-10",
+          "time": "8:00",
+          "teama": "C9",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "T1",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-10",
+          "time": "9:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "CFO",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-10",
+          "time": "10:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "TES",
+          "wait": "敬请期待"
+      }
+  ],
+  "3": [
+      {
+          "status": "未开始",
+          "date": "10-11",
+          "time": "5:00",
+          "teama": "JDG",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "G2",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-11",
+          "time": "6:00",
+          "teama": "RGE",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "TES",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-11",
+          "time": "7:00",
+          "teama": "DK",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-11",
+          "time": "8:00",
+          "teama": "100",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-11",
+          "time": "9:00",
+          "teama": "GEN",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "CFO",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-11",
+          "time": "10:00",
+          "teama": "GAM",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      }
+  ],
+  "4": [
+      {
+          "status": "未开始",
+          "date": "10-14",
+          "time": "3:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "C9",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-14",
+          "time": "4:00",
+          "teama": "T1",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-14",
+          "time": "5:00",
+          "teama": "C9",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "EDG",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-14",
+          "time": "6:00",
+          "teama": "T1",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "C9",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-14",
+          "time": "7:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "EDG",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-14",
+          "time": "8:00",
+          "teama": "EDG",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "T1",
+          "wait": "敬请期待"
+      }
+  ],
+  "5": [
+      {
+          "status": "未开始",
+          "date": "10-15",
+          "time": "3:00",
+          "teama": "G2",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-15",
+          "time": "4:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "JDG",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-15",
+          "time": "5:00",
+          "teama": "DK",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "G2",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-15",
+          "time": "6:00",
+          "teama": "G2",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "JDG",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-15",
+          "time": "7:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "DK",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-15",
+          "time": "8:00",
+          "teama": "JDG",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "DK",
+          "wait": "敬请期待"
+      }
+  ],
+  "6": [
+      {
+          "status": "未开始",
+          "date": "10-16",
+          "time": "3:00",
+          "teama": "RGE",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "GAM",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-16",
+          "time": "4:00",
+          "teama": "GAM",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "TES",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-16",
+          "time": "5:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "RGE",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-16",
+          "time": "6:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "GAM",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-16",
+          "time": "7:00",
+          "teama": "TES",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "RGE",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-16",
+          "time": "8:00",
+          "teama": "TES",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      }
+  ],
+  "7": [
+      {
+          "status": "未开始",
+          "date": "10-17",
+          "time": "3:00",
+          "teama": "100",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "CFO",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-17",
+          "time": "4:00",
+          "teama": "CFO",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "GEN",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-17",
+          "time": "5:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "100",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-17",
+          "time": "6:00",
+          "teama": "GEN",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "100",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-17",
+          "time": "7:00",
+          "teama": "CFO",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "待定",
+          "wait": "敬请期待"
+      },
+      {
+          "status": "未开始",
+          "date": "10-17",
+          "time": "8:00",
+          "teama": "待定",
+          "scorea": "0",
+          "scoreb": "0",
+          "teamb": "GEN",
+          "wait": "敬请期待"
+      }
+  ]
+}

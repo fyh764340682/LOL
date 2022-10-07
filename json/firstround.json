@@ -1,0 +1,362 @@
+{
+  "race": [
+    {
+      "top": "未开始",
+      "topdate": "9-30",
+      "toptime": "4:00",
+      "teama": "ISG",
+      "teamb": "MAD",
+      "match": "入围赛 第一天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "9-30",
+      "toptime": "5:00",
+      "teama": "FNC",
+      "teamb": "EG",
+      "match": "入围赛 第一天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "9-30",
+      "toptime": "6:00",
+      "teama": "LLL",
+      "teamb": "BYG",
+      "match": "入围赛 第一天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "9-30",
+      "toptime": "7:00",
+      "teama": "MAD",
+      "teamb": "IW",
+      "match": "入围赛 第一天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "9-30",
+      "toptime": "8:00",
+      "teama": "CHF",
+      "teamb": "FNC",
+      "match": "入围赛 第一天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "9-30",
+      "toptime": "9:00",
+      "teama": "DFM",
+      "teamb": "LLL",
+      "match": "入围赛 第一天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "9-30",
+      "toptime": "10:00",
+      "teama": "SGB",
+      "teamb": "IW",
+      "match": "入围赛 第一天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "9-30",
+      "toptime": "11:00",
+      "teama": "DRX",
+      "teamb": "RNG",
+      "match": "入围赛 第一天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-1",
+      "toptime": "4:00",
+      "teama": "FNC",
+      "teamb": "DFM",
+      "match": "入围赛 第二天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-1",
+      "toptime": "5:00",
+      "teama": "EG",
+      "teamb": "LLL",
+      "match": "入围赛 第二天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-1",
+      "toptime": "6:00",
+      "teama": "SGB",
+      "teamb": "ISG",
+      "match": "入围赛 第二天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-1",
+      "toptime": "7:00",
+      "teama": "DFM",
+      "teamb": "CHF",
+      "match": "入围赛 第二天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-1",
+      "toptime": "8:00",
+      "teama": "EG",
+      "teamb": "BYG",
+      "match": "入围赛 第二天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-1",
+      "toptime": "9:00",
+      "teama": "DRX",
+      "teamb": "SGB",
+      "match": "入围赛 第二天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-1",
+      "toptime": "10:00",
+      "teama": "MAD",
+      "teamb": "RNG",
+      "match": "入围赛 第二天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-1",
+      "toptime": "11:00",
+      "teama": "IW",
+      "teamb": "DRX",
+      "match": "入围赛 第二天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-2",
+      "toptime": "4:00",
+      "teama": "LLL",
+      "teamb": "FNC",
+      "match": "入围赛 第三天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-2",
+      "toptime": "5:00",
+      "teama": "MAD",
+      "teamb": "SGB",
+      "match": "入围赛 第三天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-2",
+      "toptime": "6:00",
+      "teama": "BYG",
+      "teamb": "DFM",
+      "match": "入围赛 第三天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-2",
+      "toptime": "7:00",
+      "teama": "EG",
+      "teamb": "CHF",
+      "match": "入围赛 第三天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-2",
+      "toptime": "8:00",
+      "teama": "RNG",
+      "teamb": "ISG",
+      "match": "入围赛 第三天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-2",
+      "toptime": "9:00",
+      "teama": "CHF",
+      "teamb": "BYG",
+      "match": "入围赛 第三天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-2",
+      "toptime": "10:00",
+      "teama": "RNG",
+      "teamb": "IW",
+      "match": "入围赛 第三天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-2",
+      "toptime": "11:00",
+      "teama": "ISG",
+      "teamb": "DRX",
+      "match": "入围赛 第三天 BO1"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-3",
+      "toptime": "4:00",
+      "teama": "BYG",
+      "teamb": "FNC",
+      "match": "入围赛 第四天 BO2"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-3",
+      "toptime": "5:00",
+      "teama": "LLL",
+      "teamb": "CHF",
+      "match": "入围赛 第四天 BO3"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-3",
+      "toptime": "6:00",
+      "teama": "DFM",
+      "teamb": "EG",
+      "match": "入围赛 第四天 BO4"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-3",
+      "toptime": "7:00",
+      "teama": "IW",
+      "teamb": "ISG",
+      "match": "入围赛 第四天 BO5"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-3",
+      "toptime": "8:00",
+      "teama": "DRX",
+      "teamb": "MAD",
+      "match": "入围赛 第四天 BO6"
+    },
+    {
+      "top": "未开始",
+      "topdate": "10-3",
+      "toptime": "9:00",
+      "teama": "RNG",
+      "teamb": "SGB",
+      "match": "入围赛 第四天 BO7"
+    }
+  ],
+  "0": [
+    {
+      "teamname": "CHF",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "EG",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "BYG",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "DFM",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "FNC",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "LLL",
+      "WL": "0/0",
+      "integral": "0"
+    }
+  ],
+  "1": [
+    {
+      "teamname": "RNG",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "SGB",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "IW",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "MAD",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "DRX",
+      "WL": "0/0",
+      "integral": "0"
+    },
+    {
+      "teamname": "ISG",
+      "WL": "0/0",
+      "integral": "0"
+    }
+  ],
+  "first": [
+    {
+        "teamname": "待定"
+    },
+    {
+        "teamname": "待定"
+    }
+],
+"match": [
+    {
+        "status": "未开始",
+        "time": "10月4日 2:00",
+        "wait": "敬请期待",
+        "team1": "待定",
+        "score1": "0",
+        "team2": "待定",
+        "score2": "0"
+    },
+    {
+        "status": "未开始",
+        "time": "10月4日 7:00",
+        "wait": "敬请期待",
+        "team1": "待定",
+        "score1": "0",
+        "team2": "待定",
+        "score2": "0"
+    },
+    {
+        "status": "未开始",
+        "time": "10月5日 2:00",
+        "wait": "敬请期待",
+        "team1": "待定",
+        "score1": "0",
+        "team2": "待定",
+        "score2": "0"
+    },
+    {
+        "status": "未开始",
+        "time": "10月5日 7:00",
+        "wait": "敬请期待",
+        "team1": "待定",
+        "score1": "0",
+        "team2": "待定",
+        "score2": "0"
+    }
+],
+"second": [
+    {
+        "teamname": "待定"
+    },
+    {
+        "teamname": "待定"
+    }
+]
+}

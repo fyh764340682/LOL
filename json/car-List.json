@@ -1,0 +1,41 @@
+{
+  "car-list": [
+      {
+          "link": "https://lol.qq.com/act/a20220822augustsummon2/index.html?e_code=500130",
+          "url": "img/底部内容/part1/轮播图/1.jpeg"
+      },
+      {
+          "link": "https://lol.qq.com/act/a20220908midset7lootpc/index.html?e_code=500131",
+          "url": "img/底部内容/part1/轮播图/2.jpeg"
+      },
+      {
+          "link": "https://lol.qq.com/news/detail.shtml?docid=13687297090527808488&e_code=500132&type=1",
+          "url": "img/底部内容/part1/轮播图/3.jpeg"
+      },
+      {
+          "link": "https://lol.qq.com/act/a20220909zenithgames/index.html?e_code=500133",
+          "url": "img/底部内容/part1/轮播图/4.jpeg"
+      },
+      {
+          "link": "https://lolriotmall.qq.com/act/a20220830mysterybag/index.html?ADTAG=lolriotmall.pc.lolgw.ad&e_code=500134",
+          "url": "img/底部内容/part1/轮播图/5.jpeg"
+      }
+  ],
+  "title-list": [
+      {
+          "title": "次元召唤/命定召唤"
+      },
+      {
+          "title": "龙境探秘"
+      },
+      {
+          "title": "TOC4网鱼赛道"
+      },
+      {
+          "title": "巅峰之星"
+      },
+      {
+          "title": "联盟限定福袋"
+      }
+  ]
+}

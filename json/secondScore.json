@@ -1,0 +1,90 @@
+{
+  "0": [
+      {
+          "teamname": "EDG",
+          "WL": "0/0",
+          "integral": "4"
+      },
+      {
+          "teamname": "待定",
+          "WL": "0/0",
+          "integral": "2"
+      },
+      {
+          "teamname": "T1",
+          "WL": "0/0",
+          "integral": "1"
+      },
+      {
+          "teamname": "C9",
+          "WL": "0/0",
+          "integral": "0"
+      }
+  ],
+  "1": [
+      {
+          "teamname": "待定",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "DK",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "G2",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "JDG",
+          "WL": "0/0",
+          "integral": "0"
+      }
+  ],
+  "2": [
+      {
+          "teamname": "待定",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "RGE",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "GAM",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "TES",
+          "WL": "0/0",
+          "integral": "0"
+      }
+  ],
+  "3": [
+      {
+          "teamname": "CFO",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "100",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "GEN",
+          "WL": "0/0",
+          "integral": "0"
+      },
+      {
+          "teamname": "待定",
+          "WL": "0/0",
+          "integral": "0"
+      }
+  ]
+}
