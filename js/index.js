@@ -709,7 +709,7 @@ const part2 = (function () {
         if (item.className) {
           if (index === 0) {
             flag = true;
-          }
+          };
           data[index].forEach(item => {
             let { imgtitle, imgtime, link, title, link2, name } = item;
             str += `<li class="hot-video-list swiper-slide">
@@ -759,6 +759,8 @@ const part2 = (function () {
         direction: 'horizontal',
         effect: "slide",
         loop: true,
+        observer:true,
+observeParents:true,
         slidesPerView: 3,
         slidesPerGroup: 3,
         autoplay: true,
